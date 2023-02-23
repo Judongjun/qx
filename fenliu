@@ -82,7 +82,9 @@ HOST-SUFFIX,googleadservices-cn.com,Global
 HOST-SUFFIX,googleadservices.com,Global
 HOST-SUFFIX,googleanalytics.com,Global
 HOST-SUFFIX,googleapis-cn.com,Global
-HOST-SUFFIX,googleapps-cn.com,Global
+HOST-SUFFIX,googleapis.cn,Google
+HOST-SUFFIX,googleapis.com,Google
+HOST-SUFFIX,googleapps-cn.com,Google
 HOST-SUFFIX,googlecapital.com,Global
 HOST-SUFFIX,googlecert.net,Global
 HOST-SUFFIX,googlecnapps.cn,Global
