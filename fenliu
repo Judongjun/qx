@@ -58,3 +58,12 @@ DOMAIN,search.yahoo.co.jp,PROXY
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk,PROXY
 DOMAIN,disk.yandex.com,PROXY
+# github gitlib
+HOST-SUFFIX,github.community,Global
+HOST-SUFFIX,github.dev,Global
+HOST-SUFFIX,githubhackathon.com,Global
+HOST-SUFFIX,githubpreview.dev,Global
+HOST-SUFFIX,githubstatus.com,Global
+HOST-SUFFIX,githubuniverse.com,Global
+HOST-SUFFIX,gitlab-static.net,Global
+HOST-SUFFIX,gitlab.net,Global
