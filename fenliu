@@ -40,6 +40,11 @@ DOMAIN-SUFFIX,whatsapp.com,PROXY
 DOMAIN-SUFFIX,whatsapp.net,PROXY
 DOMAIN-KEYWORD,.facebook.,PROXY
 # > Microsoft
+HOST-SUFFIX, bing.com, PROXY
+HOST-SUFFIX, linkedin.com, PROXY
+HOST-SUFFIX, licdn.com, PROXY
+HOST-SUFFIX, msn.com, PROXY
+HOST-SUFFIX, skype.com, PROXY
 HOST-SUFFIX,microsoft.ch,Global
 DOMAIN-SUFFIX,aka.ms,PROXY
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
