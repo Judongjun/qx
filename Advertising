@@ -24,6 +24,9 @@ DOMAIN,mobads.baidu.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
+# > BitAuto
+ DOMAIN,adx.yiche.com,REJECT
+ DOMAIN,log.ycapp.yiche.com,REJECT
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
 DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
@@ -58,12 +61,18 @@ DOMAIN-SUFFIX,rads.msn.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
 # (N)
 # > NetEase
+DOMAIN-SUFFIX,dsp.youdao.com,REJECT
+DOMAIN-SUFFIX,union.youdao.com,REJECT
 DOMAIN,ad.bn.netease.com,REJECT
+DOMAIN,ad.yixin.im,REJECT
 DOMAIN,admusicpic.music.126.net,REJECT
+DOMAIN,gorgon.youdao.com,REJECT
 DOMAIN,iad.g.163.com,REJECT
 DOMAIN,iadmat.nosdn.127.net,REJECT
 DOMAIN,iadmusicmat.music.126.net,REJECT
 DOMAIN,iadmusicmatvideo.music.126.net,REJECT
+DOMAIN,impservice.dictapp.youdao.com,REJECT
+DOMAIN,impservice.youdao.com,REJECT
 DOMAIN,n.3g.163.com,REJECT
 DOMAIN,nex.163.com,REJECT
 DOMAIN,yt-adp.nosdn.127.net,REJECT
