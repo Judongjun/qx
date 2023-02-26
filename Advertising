@@ -2,11 +2,6 @@
 
 # > General
 # (A)
-# > Apple
-DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
-DOMAIN-SUFFIX,ads.internal.unity3d.com,REJECT
-DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
-DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
 # --- (Alibaba) ---
 DOMAIN,tunion-api.m.taobao.com,REJECT
 # > YOUKU
@@ -41,28 +36,12 @@ IP-CIDR,124.192.153.42/32,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
 DOMAIN,pangolin.snssdk.com,REJECT
-# > baicizhan
-DOMAIN,advertise.baicizhan.com,REJECT
-DOMAIN,advertise.baicizhan.org,REJECT
-# > BitAuto
-DOMAIN,adx.yiche.com,REJECT
-DOMAIN,log.ycapp.yiche.com,REJECT
 # (C)
-# > CCTVVideo
-DOMAIN,adstore-index-1252524079.file.myqcloud.com,REJECT
-# > CNTV
-DOMAIN,galaxy.bjcathay.com,REJECT
-DOMAIN,mdrecv.app.cntvwb.cn,REJECT
-DOMAIN,sdapprecv.app.cntvwb.cn,REJECT
-DOMAIN,vdapprecv.app.cntvwb.cn,REJECT
 # > ChinaTelecom
 DOMAIN,ad.21cn.com,REJECT
 DOMAIN,ad.k.21cn.com,REJECT
 DOMAIN,admarket.21cn.com,REJECT
 DOMAIN,adshows.21cn.com,REJECT
-# > Chelaile
-DOMAIN,atrace.chelaile.net.cn,REJECT
-DOMAIN,logs.chelaile.net.cn,REJECT
 # (G)
 # > Google
 DOMAIN-SUFFIX,doubleclick.net,REJECT
@@ -79,18 +58,12 @@ DOMAIN-SUFFIX,rads.msn.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
 # (N)
 # > NetEase
-DOMAIN-SUFFIX,dsp.youdao.com,REJECT
-DOMAIN-SUFFIX,union.youdao.com,REJECT
 DOMAIN,ad.bn.netease.com,REJECT
-DOMAIN,ad.yixin.im,REJECT
 DOMAIN,admusicpic.music.126.net,REJECT
-DOMAIN,gorgon.youdao.com,REJECT
 DOMAIN,iad.g.163.com,REJECT
 DOMAIN,iadmat.nosdn.127.net,REJECT
 DOMAIN,iadmusicmat.music.126.net,REJECT
 DOMAIN,iadmusicmatvideo.music.126.net,REJECT
-DOMAIN,impservice.dictapp.youdao.com,REJECT
-DOMAIN,impservice.youdao.com,REJECT
 DOMAIN,n.3g.163.com,REJECT
 DOMAIN,nex.163.com,REJECT
 DOMAIN,yt-adp.nosdn.127.net,REJECT
@@ -120,13 +93,6 @@ DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
-# > Xiaohongshu
-DOMAIN,ads-img-qc.xhscdn.com,REJECT
-DOMAIN,ads-video-al.xhscdn.com,REJECT
-DOMAIN,ads-video-qc.xhscdn.com,REJECT
-DOMAIN,t-ads.xiaohongshu.com,REJECT
-# (Z)
-
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
 DOMAIN,appcloud2.in.zhihu.com,REJECT
