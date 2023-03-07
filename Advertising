@@ -8,9 +8,6 @@ DOMAIN,tunion-api.m.taobao.com,REJECT
 DOMAIN,optimus-ads.amap.com,REJECT
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
 # (B)
-# > BitAuto
- DOMAIN,adx.yiche.com,REJECT
- DOMAIN,log.ycapp.yiche.com,REJECT
 # ------
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
@@ -30,12 +27,6 @@ DOMAIN-SUFFIX,googleadsserving.cn,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN,ads.youtube.com,REJECT
-# > Microsoft
-DOMAIN-SUFFIX,ads.msn.com,REJECT
-DOMAIN-SUFFIX,ads1.msn.com,REJECT
-DOMAIN-SUFFIX,ads2.msn.com,REJECT
-DOMAIN-SUFFIX,rads.msn.com,REJECT
-DOMAIN,mobileads.msn.com,REJECT
 # (N)
 # > NetEase
 DOMAIN-SUFFIX,dsp.youdao.com,REJECT
