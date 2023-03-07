@@ -4,26 +4,10 @@
 # (A)
 # --- (Alibaba) ---
 DOMAIN,tunion-api.m.taobao.com,REJECT
-# > YOUKU
-DOMAIN-SUFFIX,atm.youku.com,REJECT
-DOMAIN,ad.mobile.youku.com,REJECT
-DOMAIN,iyes.youku.com,REJECT
-DOMAIN,pl.cp31.ott.cibntv.net,REJECT
 # > AMap
 DOMAIN,optimus-ads.amap.com,REJECT
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
 # (B)
-# --- (Baidu) ---
-DOMAIN-SUFFIX,duapps.com,REJECT
-DOMAIN-SUFFIX,cpro.baidu.com,REJECT
-DOMAIN-SUFFIX,pos.baidu.com,REJECT
-DOMAIN,afd.baidu.com,REJECT
-DOMAIN,als.baidu.com,REJECT
-DOMAIN,duclick.baidu.com,REJECT
-DOMAIN,mobads.baidu.com,REJECT
-DOMAIN,mobads-logs.baidu.com,REJECT
-DOMAIN,nadvideo2.baidu.com,REJECT
-DOMAIN,nsclick.baidu.com,REJECT
 # > BitAuto
  DOMAIN,adx.yiche.com,REJECT
  DOMAIN,log.ycapp.yiche.com,REJECT
